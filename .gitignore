@@ -1,0 +1,15 @@
+# File Type Exclusions
+*.prf
+*.ese
+*.sct
+*.rwy
+*.pdf
+
+# Folder Exclusions
+AFRS/Alias/*
+AFRS/NavData/*
+AFRS/ICAO/*
+AFRS/Sounds/*
+
+# File Exclusions
+*aeronav_copyright.txt
