@@ -6,10 +6,11 @@
 *.pdf
 
 # Folder Exclusions
-AFRS/Alias/*
-AFRS/NavData/*
-AFRS/ICAO/*
-AFRS/Sounds/*
+AFRS/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
