@@ -1,6 +1,6 @@
 # VATSSA Sector File Development for AFRS Africa South FSS
 
-[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-htdc?include_prereleases)](https://github.com/VATSIM-SSA/sectorfile-htdc/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-afrs?include_prereleases)](https://github.com/VATSIM-SSA/sectorfile-afrs/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
 [![gr-version](https://img.shields.io/badge/vCH-0.8.4-blue.svg)](https://github.com/DrFreas/VCH)
 
 ## Introduction
