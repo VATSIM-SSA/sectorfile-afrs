@@ -1,0 +1,54 @@
+===== Africa South Information =====
+
+Africa West Control is one of VATSSA's three Flight Service Stations that operate at FL245 and above when Local ATC is not available.
+
+
+==== Airport Coverage ====
+
+Africa South covers the following key airports:
+
+=== FACA Cape Town ===
+
+{{page>country:south-africa:airports#South Africa Airports (FACA)}}
+
+=== FAJA Johannesburg ===
+
+{{page>country:south-africa:airports#South Africa Airports (FAJA)}}
+
+=== FBGR Gaborone ===
+
+{{page>country:botswana:airports#Botswana Airports}}
+
+=== FIMM Mauritius ===
+
+{{page>country:biot:airports#British Indian Ocean Territory Airports}}
+
+{{page>country:mauritius:airports#Mauritius Airports}}
+
+=== FMMM Antananarivo ===
+
+{{page>country:comoros:airports#Comoros Airports}}
+
+{{page>country:madagascar:airports#Madagascar Airports}}
+
+{{page>country:mayotte:airports#Mayotte Airports}}
+
+{{page>country:reunion:airports#La Reunion Airports}}
+
+=== FQBE Beira ===
+
+{{page>country:mozambique:airports#Mozambique Airports}}
+
+=== FVHF Harare ===
+
+{{page>country:zimbabwe:airports#Zimbabwe Airports}}
+
+=== FYWF Windhoek ===
+
+{{page>country:namibia:airports#Namibia Airports}}
+
+
+
+
+
+{{page>country:fss:footer#AFRS}}
